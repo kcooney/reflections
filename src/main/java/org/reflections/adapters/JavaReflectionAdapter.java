@@ -81,7 +81,7 @@ public class JavaReflectionAdapter implements MetadataAdapter<Class, Field, Memb
     }
 
     public Class getOfCreateClassObject(Vfs.File file) throws Exception {
-        return getOfCreateClassObject(file, null);
+        return getOfCreateClassObject(file, (Classloader) null);
     }
 
     public Class getOfCreateClassObject(Vfs.File file, @Nullable ClassLoader... loaders) throws Exception {
