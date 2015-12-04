@@ -144,10 +144,14 @@ Reflections can also:
 
 *See the [UseCases](http://code.google.com/p/reflections/wiki/UseCases) wiki page*
 
+###Licenses
+
+Reflections is dual licensed:
+  * [WTFPL](http://www.wtfpl.net/), just do what the fuck you want to - see [COPYING.txt](https://raw.githubusercontent.com/ronmamo/reflections/master/COPYING.txt)
+  * [BSD](http://opensource.org/licenses/bsd-license.html) - see [LICENSE](https://raw.githubusercontent.com/ronmamo/reflections/master/LICENSE)
+
 ###Contribute
 Pull requests are welcomed!!
-
-The license is [WTFPL](http://www.wtfpl.net/), just do what the fuck you want to. 
 
 This library is published as an act of giving and generosity, from developers to developers. 
 
